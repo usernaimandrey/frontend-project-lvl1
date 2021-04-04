@@ -10,4 +10,4 @@
 > **Пользователю показывается случайное число.** 
 > **И ему нужно ответить yes, если число чётное,** 
 > **или no — если нечётное.**
-<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+<a href="https://asciinema.org/a/405124" target="_blank"><img src="https://asciinema.org/a/405124.svg" height="300" /></a>
