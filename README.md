@@ -10,4 +10,4 @@
 > **Пользователю показывается случайное число.** 
 > **И ему нужно ответить yes, если число чётное,** 
 > **или no — если нечётное.**
-[Brain-even](<script id="asciicast-405124" src="https://asciinema.org/a/405124.js" async></script>)
+<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
