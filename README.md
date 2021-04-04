@@ -10,4 +10,4 @@
 > **Пользователю показывается случайное число.** 
 > **И ему нужно ответить yes, если число чётное,** 
 > **или no — если нечётное.**
-[Brain-even](https://asciinema.org/a/405124)
+[Brain-even](<a href="https://asciinema.org/a/405124" target="_blank"><img src="https://asciinema.org/a/405124.svg" /></a>)
