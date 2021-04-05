@@ -1,5 +1,5 @@
 #! /usr/bin/env node
 
-import helloRun from '../src/cli.js';
+import helloRun from '../src/games/cli.js';
 
 helloRun();
