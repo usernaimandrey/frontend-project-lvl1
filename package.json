@@ -1,12 +1,13 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Brain Games(CLI games)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "brain-games": "bin/brain-games.js",
+    "brain-games": "bin/barin-games.js",
+    "brain-calc": "bin/brain-calc.js",
     "brain-even": "bin/brain-even.js"
   },
   "repository": {
@@ -26,7 +27,7 @@
   },
   "type": "module",
   "homepage": "https://github.com/usernaimandrey/frontend-project-lvl1#readme",
-  "main": "",
+  "main": "index.js",
   "dependencies": {
     "@hexlet/pairs": "^1.1.1",
     "readline-sync": "^1.4.10"

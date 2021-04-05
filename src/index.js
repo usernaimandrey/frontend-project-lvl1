@@ -1,10 +1,9 @@
 import { car, cdr } from '@hexlet/pairs';
 import readlineSync from 'readline-sync';
+import greeting from './games/cli.js';
 
 const process = (gamesRule, game) => {
-  console.log('Welcome to the Brain Games!');
-  const userName = readlineSync.question('May I have your name?: ');
-  console.log(`Hello, ${userName}!`);
+  const userName = greeting();
   console.log(gamesRule);
   const gamesRound = 3;
   const playGames = (round) => {
