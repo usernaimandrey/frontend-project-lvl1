@@ -30,3 +30,9 @@
 > **Игрок должен определить это число.**
 
 <a href="https://asciinema.org/a/405437" target="_blank"><img src="https://asciinema.org/a/405437.svg" height="300" /></a>
+
+5. ## *Brain-prime:*
+> **Игроку показывается число, если оно простое он должен ответить yes,**
+> **если нет то no. Простое число это число которое делится только на 1 и на себя.**
+
+<a href="https://asciinema.org/a/405598" target="_blank"><img src="https://asciinema.org/a/405598.svg" heigh="300" /></a>
